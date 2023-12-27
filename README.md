@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sultan Idrisi</h1>
 <h3 align="center">A professional developer & SEO Expert from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://sultanidrisi.vercel.app](https://sultanidrisi.vercel.app)
+
+- 📫 How to reach me **isultanjaved@gmail.com**
+
+- 📄 Know about my experiences [https://sultanidrisi.vercel.app](https://sultanidrisi.vercel.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isultanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isultanjaved" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sultan-idrisi-834881261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sultan-idrisi-834881261/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16941792/sultan-javed-idrisi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16941792/sultan-javed-idrisi?tab=profile" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100093620785621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093620785621" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/sultanidrisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/sultanidrisi" height="30" width="40" /></a>
 <a href="https://medium.com/@isultanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isultanjaved" height="30" width="40" /></a>
 </p>
